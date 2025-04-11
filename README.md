@@ -1,11 +1,9 @@
 # READ-ME
-Repository linked to the paper "Basic Meaning: The Achilles’s heel of metaphor identification" Submitted to ACL 2025.
+Repository linked to the paper "Basic Meaning Annotation" Submitted to LAW-XIX @ ACL 2025.
 
 # Summary
 
-Basic Meaning (BM) is a fundamental concept in metaphor identification, serving as the reference point against which contextual meanings are compared. Despite its central role in the Metaphor Identification Procedure (MIP) and its extension, MIPVU, little attention has been given to systematically defining and identifying BM, which hinders transparency and reproducibility in both manual and computational metaphor annotation. In this work, we focus on BM itself, proposing psycholinguistically and lexically motivated measures to quantify BM in an objective and replicable manner.
-
-The most Basic Meaning (BM) of a word is defined as more *concrete* in opposition to abstract, more *precise*, as opposed to vague, more *physical* or related to bodily action, and etymologically older than other meanings (e.g., the word chicken can be used in two different ways: `'a domestic fowl bred for flesh or eggs' or 'a person who lacks confidence'`. In this case the most basic meaning would be the first one.) 
+Basic Meaning (BM) is a foundational yet poorly defined concept in semantic theory. While it underpins a wide range of linguistic tasks—from lexical semantics to metaphor identification—its definition and annotation are often treated as self-evident, leading to inconsistencies, subjectivity, and limited reproducibility. In this work, we empirically investigate the complexity of defining and annotating BM. Drawing on psycholinguistic norms and lexical features, we analyze how human annotators interpret BM under the guidelines of the Metaphor Identification Procedure (MIP), and assess the internal coherence and cognitive grounding of their decisions. While metaphor identification serves as a use-case that highlights the risks of assuming BM without proper scrutiny, our broader aim is to promote BM as a research object in its own right.
 
 # Contents
 In this repository the user can find in `BM/data` our manually annotated datasets with added psycholinguistic and linguistic measures for *precision, concreteness, imageability, physicality* and *familiarity*. 
