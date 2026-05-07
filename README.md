@@ -1,5 +1,5 @@
 # READ-ME
-Repository linked to the paper "Basic Meaning refinement for reliable Metaphor Identification"
+Repository linked to the paper "Basic Meaning refinement for reliable Metaphor Identification" accepted at Metaphor and Symbol on April 2026
 
 # Summary
 
